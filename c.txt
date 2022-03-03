@@ -1,8 +1,7 @@
  Noi dung C
 
-<<<<<<< HEAD
  Cap nhat boi MACos
-=======
 
 Cap nhat boi Windows
->>>>>>> origin/master
+
+2022
